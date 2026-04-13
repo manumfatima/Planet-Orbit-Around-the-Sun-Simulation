@@ -53,6 +53,12 @@ The goal is to demonstrate how gravitational forces govern planetary orbits and 
 
 ---
 
+## Medium Article:
+I wrote a Medium article explaining the steps in details. Here's the link
+https://medium.com/@manumfatima2000/simulation-of-planetary-motion-70cf99e84ad2
+
+--- 
+
 ## Work Inspired by:
 - TechWithTim: https://www.youtube.com/watch?v=WTLPmUHTPqo
 
